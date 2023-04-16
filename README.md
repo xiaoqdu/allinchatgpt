@@ -12,7 +12,8 @@
 # chatgpt
 
 [资料索引入口](./chatgpt/chatgpt.md)
-<iframe src="./chatgpt/chatgpt.md" width="100%" height="500px"></iframe>
+
+<iframe src="/chatgpt/chatgpt.md" width="100%" height="500px"></iframe>
 
 # chatgpt相关插件
 # chatgpt相关web应用
