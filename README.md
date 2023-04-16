@@ -10,7 +10,9 @@
 ![资料架构图](https://github.com/xiaoqdu/allinchatgpt/blob/main/framework.jpg?raw=true)
 
 # chatgpt
-!INCLUDE "/chatgpt/chatgpt.md"
+
+[include](./chatgpt/chatgpt.md)
+
 # chatgpt相关插件
 # chatgpt相关web应用
 # chatgpt相关独立工具
