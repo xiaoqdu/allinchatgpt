@@ -14,8 +14,6 @@
 
 # chatgpt
 
-[资料索引入口](./chatgpt/chatgpt.md)
-
  ### 基本原理 
 
 |    | 标题                                               | URL                                                                                                                               |   说明 |
@@ -24,7 +22,6 @@
 |  1 | 一文读懂ChatGPT模型原理                                  | https://zhuanlan.zhihu.com/p/589621442?utm_source=zhihu&utm_id=0                                                                  |  nan |
 |  2 | ChatGPT原理剖析 李宏毅                                  | https://www.bilibili.com/video/BV1jA411274Q/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51 |  nan |
 |  3 | 强烈推荐！台大李宏毅自注意力机制和Transformer详解！                  | https://www.bilibili.com/video/BV1v3411r78R/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51 |  nan |
-
 
 ### 版本说明
 
@@ -43,16 +40,12 @@
 |  2 | 24小时成功订阅ChatGPT Plus 手把手教你如何订阅付费ChatGPT | https://www.bilibili.com/video/BV11M411Y7PV/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51 |  nan |
 |  3 | Chat GPT升级成Plus教程.pdf                   | https://github.com/xuyihui1996/GPT-                                                                                               |  nan |
 
-
-
-
 ### 基本使用
 
 |    | 标题                                   | URL                                                                                                                                                                                                                                                                                                                  |   说明 |
 |---:|:-------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
 |  0 | ChatGPT登录操作扫盲级教程，附ChatGPT登录常见报错及处理技巧 | https://blog.csdn.net/wy17910/article/details/129889204?ydreferer=aHR0cHM6Ly93d3cuYmFpZHUuY29tL2xpbms%2FdXJsPVU0am9uYTVFWTNFQi1OZFlqNkNOaUNDZ0tvMlpvQnEyNVNZbjdMbFZDSC0wR0hnQmNPWVBWRHlDS2doRDZXa3lJX2llOXBFc1hHRURhUTEtNlJCV0R2YVlHYmtBbG90enVmU2JhTmJFanpTJndkPSZlcWlkPWI3NWQyODQwMDA4MDQ0NTAwMDAwMDAwMzY0M2JmZmIz |  nan |
 |  1 | 001 解决登陆open ai所在地区 国家不可用的问题         | https://www.bilibili.com/video/BV1nd4y1W7h2/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51                                                                                                                                                                                    |  nan |
-
 
 ### 提示工程
 
@@ -68,10 +61,11 @@
 
 ### 提示工程工具
 
-|    | 标题                                                                | URL                            |   说明 |
-|---:|:------------------------------------------------------------------|:-------------------------------|-----:|
-|  0 | 欢迎使用 PromptPerfect，它是专为大型语言模型 (LLM)、大型模型 (LM) 和 LMOps 设计的尖端提示词优化器 | https://promptperfect.jina.ai/ |  nan |
-
+|    | 标题                                                                | URL                                       |   说明 |
+|---:|:------------------------------------------------------------------|:------------------------------------------|-----:|
+|  0 | 欢迎使用 PromptPerfect，它是专为大型语言模型 (LLM)、大型模型 (LM) 和 LMOps 设计的尖端提示词优化器 | https://promptperfect.jina.ai/            |  nan |
+|  1 | ChatGPT Shortcut 生产力加倍的 ChatGPT 快捷指令                              | https://www.aishort.top/?ref=nav.6aiq.com |  nan |
+|  2 | PromptSpace                                                       | https://promptspace.xyz/?ref=nav.6aiq.com |  nan |
 
 ### 模型微调
 
@@ -85,6 +79,7 @@
 |    | 标题                                                                              | URL                                                   | 说明       |
 |---:|:--------------------------------------------------------------------------------|:------------------------------------------------------|:---------|
 |  0 | Learn how to build a plugin that allows ChatGPT to intelligently call your API. | https://platform.openai.com/docs/plugins/introduction | openai官网 |
+
 
 
 # chatgpt相关插件
