@@ -83,6 +83,27 @@
 
 
 # chatgpt相关插件
+
+### 浏览器Edge插件
+
+|    | 标题                                  | URL                                                 | 说明                                         |
+|---:|:------------------------------------|:----------------------------------------------------|:-------------------------------------------|
+|  0 | Voice Control for ChatGPT           | 在浏览器扩展查询中输入关键字"Voice Control for ChatGPT"           | 该扩展添加了高级语音控制和朗读功能，                         |
+|    |                                     |                                                     | 让您可以以多种语言与 AI 进行交流，并轻松听到其回应的语音。可用于英语口语对话学习 |
+|  1 | EditGPT                             | 在浏览器扩展查询中输入关键字"editGPT"                             | 在ChatGPT中轻松校对、编辑和跟踪内容的更改                   |
+|  2 | ChatHub                             | 在浏览器扩展查询中输入关键字"Chathub"                             | 同时展示chatgpt和bing的查询结果                      |
+|  3 | ChatGPT for YouTube                 | 在浏览器扩展查询中输入关键字"ChatGPT for YouTube"                 | 生成youtube视频内容摘要                            |
+|  4 | WebChatGPT                          | 在浏览器扩展查询中输入关键字"WebChatGPT"                          | 可使ChatGPT访问互联网内容                           |
+|  5 | ChatGPT Summary AI for any websites | 在浏览器扩展查询中输入关键字"ChatGPT Summary AI for any websites" | 可针对youtube视频和网页内容生成摘要. 目前生成内容只支持中文         |
+
+### Vscode插件
+
+| 标题   | URL   | 说明   |
+|------|-------|------|
+
+
+
+
 # chatgpt相关web应用
 # chatgpt相关独立工具
 # chatgpt+AI工具配合
