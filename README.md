@@ -8,7 +8,7 @@
    欢迎访问ChatGPT一站式全网资料收集整理站，紧跟ChatGPT的发展，及时更新提供关于ChatGPT的相对全面的各方面资料。方便对ChatGPT有一个全面的认识和了解。  
 </p>
 
-<iframe width="560" height="315" src="https://openaicomproductionae4b.blob.core.windows.net/production-twill-01/121dd5e0-eaea-424d-bdf2-db02ca1f5e55/gpt-4-92586ac_1080p60.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![介绍](https://github.com/xiaoqdu/allinchatgpt/blob/main/introduce.gif)
 
 <p>
 资料架构图
