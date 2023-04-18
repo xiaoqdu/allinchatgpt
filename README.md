@@ -7,9 +7,7 @@
   
    欢迎访问ChatGPT一站式全网资料收集整理站，紧跟ChatGPT的发展，及时更新提供关于ChatGPT的相对全面的各方面资料。方便对ChatGPT有一个全面的认识和了解。  
 </p>
-<video src="./gpt-4.mp4" width=100% controls>
-  您的浏览器不支持视频播放。
-</video>
+https://github.com/xiaoqdu/allinchatgpt/blob/main/gpt-4.mp4
 <p>
 资料架构图
 </p>
