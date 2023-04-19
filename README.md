@@ -169,6 +169,22 @@
 
 # chatgpt+AI工具配合
 
+### chatgpt+
+
+|    | 标题                                                                        | 说明                                                                                              |
+|---:|:--------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
+|  0 | [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt)          | 这个WhatsApp机器人使用OpenAI的GPT和DALL-E 2来响应用户输入。您可以在语音消息中与机器人交谈，机器人将转录和响应。                            |
+|  1 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)          | 与微信和聊天GPT互动：在微信上使用微信和官方 API 上的 ChatGPT                                                          |
+|    |                                                                           | 添加对话支持、支持命令设置                                                                                   |
+|  2 | [chatGPTBox](https://github.com/josStorer/chatGPTBox)                     | 浏览器中的深度 ChatGPT 集成，完全免费。                                                                        |
+|  3 | [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)                    | 这是一个Mac上支持ChatGPT的应用程序，使ChatGPT在您的菜单栏中。您可以使用 Cmd+Shift+G （Mac） 或 Ctrl+Shift+G （Win） 从任何地方快速打开它。 |
+|  4 | [ChatGPT (and GPT4) Wrapper](https://github.com/mmabrouk/chatgpt-wrapper) | 用于使用 Python 和 Shell 与 ChatGPT 和 GPT4 交互的 API。                                                   |
+|  5 | [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)              | vscode使用chatgpt                                                                                 |
+|  6 | [AICommand](https://github.com/keijiro/AICommand)                         | ChatGPT integration with Unity Editor                                                           |
+|  7 | [chatgpt-andriod](https://github.com/skydoves/chatgpt-android)            | ChatGPT Android 在 Android 上使用 Stream Chat SDK for Compose 演示 OpenAI 的 ChatGPT。                  |
+|  8 | [ChatGPT](https://github.com/lencx/ChatGPT)                               | ChatGPT 桌面应用,支持 (Mac, Windows and Linux)                                                        |
+|  9 | [xiaogpt](https://github.com/yihong0618/xiaogpt)                          | 小米音箱对接chatgpt                                                                                   |
+
 # chatgpt实际应用
 
 # 学术技术论文、技术文档
