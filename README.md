@@ -167,7 +167,7 @@
 |---:|:------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
 |  0 | [ChatPDF](https://www.chatpdf.com/) | 对于学生：通过ChatPDF增强您的学习体验。轻松理解教科书、讲义和演示文稿。不要花费数小时翻阅研究论文和学术文章。对于工作者：高效分析您的文档。从财务和销售报告到项目和商业提案、培训手册和法律合同，ChatPDF 可以快速为您提供所需的信息。 |
 
-# chatgpt+AI工具配合
+# chatgpt+AI、工具配合
 
 ### chatgpt+
 
@@ -184,6 +184,52 @@
 |  7 | [chatgpt-andriod](https://github.com/skydoves/chatgpt-android)            | ChatGPT Android 在 Android 上使用 Stream Chat SDK for Compose 演示 OpenAI 的 ChatGPT。                  |
 |  8 | [ChatGPT](https://github.com/lencx/ChatGPT)                               | ChatGPT 桌面应用,支持 (Mac, Windows and Linux)                                                        |
 |  9 | [xiaogpt](https://github.com/yihong0618/xiaogpt)                          | 小米音箱对接chatgpt                                                                                   |
+| 10 | [office365 copilot](https://zh.wikipedia.org/zh-cn/Microsoft_365_Copilot) | office365 copilot(全面升级办公套件)                                                                     |
+| 11 | [new bing](https://www.bing.com/)                                        | New Bing整合了Chatgpt能力，提供了新的搜索模式，整合了聊天和搜索结果                                                       |
+
+### office365 copilot
+
+|    | 标题                                                                                                                                                                  | 说明                       |
+|---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|
+|  0 | [office365 copilot](https://zh.wikipedia.org/zh-cn/Microsoft_365_Copilot)                                                                                           | office365 copilot 维基百科说明 |
+|  1 | [Microsoft 365 抢先体验Copilot，进去之后，一言难尽。](https://www.bilibili.com/video/BV1Xg4y1u745/?spm_id_from=autoNext&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                | nan                      |
+|  2 | [全新微软Office Copilot 发布会快速解读](https://www.bilibili.com/video/BV1ox4y1A7Dv/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51)     | nan                      |
+|  3 | [ChatGPT整合进Office：AI第一剑，先斩打工人](https://www.bilibili.com/video/BV14o4y1z7oq/?spm_id_from=333.788.recommend_more_video.-1&vd_source=a839a656d82f50d2b08ae4042d5a0e51) | nan                      |
+
+### chatgpt+docx
+
+|    | 标题                                               |   说明 |
+|---:|:-------------------------------------------------|-----:|
+|  0 | [雷鸟365](https://www.leiniao365.com/)             |  nan |
+|  1 | [OnlyOffice](https://personal.onlyoffice.com/zh) |  nan |
+
+### chatgpt+pptx
+
+|    | 标题                                                                                                                                                    | 说明                            |
+|---:|:------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------|
+|  0 | [MotionGo](https://motion.yoo-ai.com/)                                                                                                               | 命令式智能对话一键式生成PPT，让PPT表达更加快速、高效 |
+|  1 | [如何使用ChatGPT制作PPT](https://www.bilibili.com/video/BV1cc411H7Wo/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) | chatgpt+mindshow组合生成ppt       |
+|  2 | [ChatBA: Generative AI for Slides ✨](https://www.chatba.com/)                                                                                         | 斯坦福博士生自制的PPT生成神器              |
+
+### chatgpt+excel
+
+|    | 标题                                                                                                                                                                  | 说明               |
+|---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------|
+|  0 | [用ChatGPT自动化操作Excel，十倍提升你的工作效率！](https://www.bilibili.com/video/BV1J8411p7wX/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) | nan              |
+|  1 | [酷表ChatExcel](https://chatexcel.com/convert)                                                                                                                        | 通过聊天来操控您的Excel表格 |
+
+### chatgpt+midjourney
+
+|    | 标题                                                                                                                                                                                         | 说明                                                                                 |
+|---:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
+|  0 | [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了](https://www.bilibili.com/video/BV1XM411T7uP/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                   | 科研绘图                                                                               |
+|  1 | [两大AI结合！最新Midjourney v5 + ChatGPT 咒语生成Prompt Generator](https://www.bilibili.com/video/BV1vv4y157XS/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) | 生成Prompt                                                                           |
+|  2 | [史上最强AI创作组合：Midjourney V5 + ChatGPT-4](https://www.bilibili.com/video/BV1Nm4y1z7r2/?spm_id_from=autoNext&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                                       | 生成Prompt                                                                           |
+|  3 | [ChatGPT+Midjourney将颠覆传统服装行业](https://www.bilibili.com/video/BV1Vo4y1H7Q7/?spm_id_from=333.788.recommend_more_video.8&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                          | 现在搞服装电商还要什么服装设计师、要什么模特、要什么摄影师、要什么修图师，一套服装从设计草图到能够去电商上架，用ChatGPT和Midjourney1个小时可以完成 |
+|  4 | [新手小白利用ChatGpt+MidJourney+D-ID生产视频,可以躺着赚钱吗？](https://www.bilibili.com/video/BV1v24y1g79p/?spm_id_from=333.788.recommend_more_video.1&vd_source=a839a656d82f50d2b08ae4042d5a0e51)           | 生成数字人                                                                              |
+|  5 | [ChatGPT、Midjourney用AI快速制作3D版儿童绘本](https://www.bilibili.com/video/BV13k4y147bN/?spm_id_from=333.788.recommend_more_video.12&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                    | 生成儿童绘本                                                                             |
+|  6 | [如何用ChatGPT + Midjourney画一幅水墨画，2分钟！手把手教程！](https://www.bilibili.com/video/BV1ms4y157kJ/?spm_id_from=333.788.recommend_more_video.3&vd_source=a839a656d82f50d2b08ae4042d5a0e51)             | 生成水墨画                                                                              |
+|  7 | [使用midjourney和ChatGPT 5分钟快速生成表情包](https://www.bilibili.com/video/BV1sL411o7hG/?spm_id_from=333.788.recommend_more_video.17&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                     | 生成表情包                                                                              |
 
 # chatgpt实际应用
 
