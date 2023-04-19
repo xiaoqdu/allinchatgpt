@@ -24,7 +24,7 @@
 
 # chatgpt
 
-### 基本原理
+# 基本原理
 
 |    | 标题                                                                                                                                                                                     |   说明 |
 |---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
@@ -33,7 +33,7 @@
 |  2 | [ChatGPT原理剖析 李宏毅](https://www.bilibili.com/video/BV1jA411274Q/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                                   |  nan |
 |  3 | [强烈推荐！台大李宏毅自注意力机制和Transformer详解！](https://www.bilibili.com/video/BV1v3411r78R/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                   |  nan |
 
-### 版本说明
+# 版本说明
 
 |    | 标题                                                                                                                                                                   | 说明                  |
 |---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
@@ -41,7 +41,7 @@
 |  1 | [ChatGPT普通版与Plus版差距有多大？这个视频给你说明白](https://www.bilibili.com/video/BV1dT411q7ek/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) | nan                 |
 |  2 | [GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses](https://openai.com/product/gpt-4)                                                | OpenAI chatgpt4官方介绍 |
 
-### 注册过程
+# 注册过程
 
 |    | 标题                                                                                                                                                                           |   说明 |
 |---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
@@ -50,14 +50,14 @@
 |  2 | [24小时成功订阅ChatGPT Plus 手把手教你如何订阅付费ChatGPT](https://www.bilibili.com/video/BV11M411Y7PV/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) |  nan |
 |  3 | [Chat GPT升级成Plus教程.pdf](https://github.com/xuyihui1996/GPT-)                                                                                                                 |  nan |
 
-### 基本使用
+# 基本使用
 
 |    | 标题                                                                                                                                                                                                                                                                                                                                                            |   说明 |
 |---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
 |  0 | [ChatGPT登录操作扫盲级教程，附ChatGPT登录常见报错及处理技巧](https://blog.csdn.net/wy17910/article/details/129889204?ydreferer=aHR0cHM6Ly93d3cuYmFpZHUuY29tL2xpbms%2FdXJsPVU0am9uYTVFWTNFQi1OZFlqNkNOaUNDZ0tvMlpvQnEyNVNZbjdMbFZDSC0wR0hnQmNPWVBWRHlDS2doRDZXa3lJX2llOXBFc1hHRURhUTEtNlJCV0R2YVlHYmtBbG90enVmU2JhTmJFanpTJndkPSZlcWlkPWI3NWQyODQwMDA4MDQ0NTAwMDAwMDAwMzY0M2JmZmIz) |  nan |
 |  1 | [001 解决登陆open ai所在地区 国家不可用的问题](https://www.bilibili.com/video/BV1nd4y1W7h2/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51)                                                                                                                                                                                             |  nan |
 
-### 提示工程
+# 提示工程
 
 |    | 标题                                                                                                                |   说明 |
 |---:|:------------------------------------------------------------------------------------------------------------------|-----:|
@@ -69,7 +69,7 @@
 |  5 | [大模型自动产生prompt的范式(Automatic Prompt Engineer(APE))](https://zhuanlan.zhihu.com/p/619112790)                        |  nan |
 |  6 | [Large Language Models Are Human-Level Prompt Engineers](https://sites.google.com/view/automatic-prompt-engineer) |  nan |
 
-### 提示工程工具
+# 提示工程工具
 
 |    | 标题                                                                                                  |   说明 |
 |---:|:----------------------------------------------------------------------------------------------------|-----:|
@@ -77,18 +77,37 @@
 |  1 | [ChatGPT Shortcut 生产力加倍的 ChatGPT 快捷指令](https://www.aishort.top/?ref=nav.6aiq.com)                   |  nan |
 |  2 | [PromptSpace](https://promptspace.xyz/?ref=nav.6aiq.com)                                            |  nan |
 
-### 模型微调
+# 模型微调
 
-|    | 标题                                                                                                          | 说明           |
-|---:|:------------------------------------------------------------------------------------------------------------|:-------------|
-|  0 | [Learn how to customize a model for your application.](https://platform.openai.com/docs/guides/fine-tuning) | openai官网参考资料 |
-|  1 | [What are embeddings?](https://platform.openai.com/docs/guides/embeddings)                                  | openai官网参考资料 |
+|    | 标题                                                                                                          | 说明                                                                                                                                                                                                                                      |
+|---:|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  0 | [Learn how to customize a model for your application.](https://platform.openai.com/docs/guides/fine-tuning) | openai官网参考资料                                                                                                                                                                                                                            |
+|  1 | [What are embeddings?](https://platform.openai.com/docs/guides/embeddings)                                  | openai官网参考资料                                                                                                                                                                                                                            |
+|  2 | [LlamaIndex](https://github.com/jerryjliu/llama_index)                                                      | LlamaIndex（GPT索引）是一个项目，它提供了一个中央接口，将您的LLM与外部数据连接起来。                                                                                                                                                                                      |
+|  3 | [llamahub](https://llamahub.ai/)                                                                            | 使用一个或多个这些加载器将自定义数据源连接到您的LLM（通过LlamaIndex或LangChain）                                                                                                                                                                                     |
+|  4 | [如何使用ChatGPT API训练自定义知识库AI聊天机器人](https://www.wbolt.com/how-to-train-ai-chatbot.html)                        | 在自己的数据上训练自己的ChatGPT                                                                                                                                                                                                                     |
+|  5 | [LlamaHub](https://github.com/emptycrown/llama-hub)                                                        | 这是一个由社区创建的所有数据加载器/阅读器的简单库。目标是使将大型语言模型连接到各种知识源变得非常容易。这些是通用实用程序，旨在用于LlamaIndex（例如，在构建索引时）和LangChain（例如，在构建代理可以使用的不同工具时）。例如，有加载器可以解析Google Docs，SQL数据库，PDF文件，PowerPoint，Notion，Slack，Obsidian等等。请注意，由于不同的加载器生成相同类型的文档，因此您可以轻松地在同一索引中一起使用它们 |
 
-### ChatPlugin
+# ChatPlugin
 
 |    | 标题                                                                                                                                       | 说明       |
 |---:|:-----------------------------------------------------------------------------------------------------------------------------------------|:---------|
 |  0 | [Learn how to build a plugin that allows ChatGPT to intelligently call your API.](https://platform.openai.com/docs/plugins/introduction) | openai官网 |
+
+# SDK、API接口
+
+|    | 标题                                                                              | 说明                                            |
+|---:|:--------------------------------------------------------------------------------|:----------------------------------------------|
+|  0 | [精选的 ChatGPT 资源列表，包括库、SDK、API](https://github.com/eon01/awesome-chatgpt#python) | 精选的 ChatGPT 资源列表，包括库、SDK、API                  |
+|  1 | [OpenAI Cookbook](https://github.com/openai/openai-cookbook)                    | OpenAI Cookbook 分享了使用 OpenAI API 完成常见任务的示例代码。 |
+|  2 | [Reverse engineered ChatGPT API](https://github.com/acheong08/ChatGPT)          | 逆向工程的 ChatGPT API                             |
+
+# ChatGPT镜像站
+
+|    | 标题                                                                                                   | 说明                                            |
+|---:|:-----------------------------------------------------------------------------------------------------|:----------------------------------------------|
+|  0 | [免费的 ChatGPT (https://chat.openai.com/) 镜像网站列表](https://github.com/LiLittleCat/awesome-free-chatgpt) | 免费的 ChatGPT (<https://chat.openai.com/>) 镜像网站列表 |
+|  1 | [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web)                                      | 一键免费部署你的私人 ChatGPT 网页应用。                      |
 
 # chatgpt相关插件
 
