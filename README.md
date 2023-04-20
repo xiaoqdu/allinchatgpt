@@ -1,4 +1,4 @@
-# allinchatgpt
+# Allin-ChatGPT
 
 <p align="justify">
  ChatGPT资料汇总学习，持续更新......
@@ -22,7 +22,7 @@
 
 ![交流群](https://github.com/xiaoqdu/allinchatgpt/blob/main/aigroup.jpg?raw=true)
 
-# chatgpt
+# ChatGPT
 
 - 基本原理
   - [ChatGPT保姆级使用教程,底层原理全详解]( https://www.bilibili.com/video/BV19y4y1X7mS/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
@@ -70,7 +70,7 @@
   - [免费的 ChatGPT镜像网站列表](https://github.com/LiLittleCat/awesome-free-chatgpt) - 免费的 ChatGPT镜像网站列表
   - [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键免费部署你的私人 ChatGPT 网页应用。
 
-# chatgpt相关插件
+# ChatGPT相关插件
 
 - 浏览器Edge插件
   - [Voice Control for ChatGPT](edge://extensions/) - 该扩展添加了高级语音控制和朗读功能，让您可以以多种语言与 AI 进行交流
@@ -82,7 +82,7 @@
 - Vscode插件
   - [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 
-# chatgpt相关web应用、独立工具
+# ChatGPT相关web应用、独立工具
 
 - AutoGPT
   - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。这个程序由GPT-4驱动，将LLM“思想”链接在一起，以自主实现您设定的任何目标
@@ -113,9 +113,9 @@
 - ChatPDF
   - [ChatPDF](https://www.chatpdf.com/) - 对于学生：通过ChatPDF增强您的学习体验。轻松理解教科书、讲义和演示文稿。不要花费数小时翻阅研究论文和学术文章。对于工作者：高效分析您的文档。从财务和销售报告到项目和商业提案、培训手册和法律合同，ChatPDF 可以快速为您提供所需的信息。
 
-# chatgpt+AI、工具配合
+# ChatGPT+AI、工具配合
 
-- chatgpt+
+- ChatGPT+
   - [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - 这个WhatsApp机器人使用OpenAI的GPT和DALL-E 2来响应用户输入
   - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - 与微信和聊天GPT互动：在微信上使用微信和官方 API 上的 ChatGPT
   - [chatGPTBox](https://github.com/josStorer/chatGPTBox) - 浏览器中的深度 ChatGPT 集成，完全免费。
@@ -133,17 +133,17 @@
   - [Microsoft 365 抢先体验Copilot，进去之后，一言难尽。](https://www.bilibili.com/video/BV1Xg4y1u745/?spm_id_from=autoNext&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [全新微软Office Copilot 发布会快速解读](https://www.bilibili.com/video/BV1ox4y1A7Dv/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [ChatGPT整合进Office：AI第一剑，先斩打工人](https://www.bilibili.com/video/BV14o4y1z7oq/?spm_id_from=333.788.recommend_more_video.-1&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
-- chatgpt+docx
+- ChatGPT+docx
   - [雷鸟365](https://www.leiniao365.com/) - 在线集成AI的文档编辑器
   - [OnlyOffice](https://personal.onlyoffice.com/zh) - nan
-- chatgpt+pptx
+- ChatGPT+pptx
   - [MotionGo](https://motion.yoo-ai.com/) - 命令式智能对话一键式生成PPT，让PPT表达更加快速、高效
   - [如何使用ChatGPT制作PPT](https://www.bilibili.com/video/BV1cc411H7Wo/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - chatgpt+mindshow组合生成ppt
   - [ChatBA: Generative AI for Slides ✨](https://www.chatba.com/) - 斯坦福博士生自制的PPT生成神器
-- chatgpt+excel
+- ChatGPT+excel
   - [用ChatGPT自动化操作Excel，十倍提升你的工作效率！](https://www.bilibili.com/video/BV1J8411p7wX/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [酷表ChatExcel](https://chatexcel.com/convert) - 通过聊天来操控您的Excel表格
-- chatgpt+midjourney
+- ChatGPT+midjourney
   - [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了](https://www.bilibili.com/video/BV1XM411T7uP/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 科研绘图
   - [两大AI结合！最新Midjourney v5 + ChatGPT 咒语生成Prompt Generator](https://www.bilibili.com/video/BV1vv4y157XS/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 生成Prompt
   - [史上最强AI创作组合：Midjourney V5 + ChatGPT-4](https://www.bilibili.com/video/BV1Nm4y1z7r2/?spm_id_from=autoNext&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 生成Prompt
@@ -153,7 +153,7 @@
   - [如何用ChatGPT + Midjourney画一幅水墨画](https://www.bilibili.com/video/BV1ms4y157kJ/?spm_id_from=333.788.recommend_more_video.3&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 生成水墨画
   - [使用midjourney和ChatGPT 5分钟快速生成表情包](https://www.bilibili.com/video/BV1sL411o7hG/?spm_id_from=333.788.recommend_more_video.17&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 生成表情包
 
-# chatgpt实际应用
+# ChatGPT实际应用
 
 - 学术研究者
   - [如何使用ChatGPT进行论文降重](https://zhuanlan.zhihu.com/p/613320423?utm_id=0) - ChatGPT进行论文降重
