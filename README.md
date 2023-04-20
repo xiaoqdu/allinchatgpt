@@ -84,6 +84,10 @@
 
 # ChatGPT相关web应用、独立工具
 
+- MiniGPT-4
+  - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4：使用高级大语言模型增强视觉语言理解，可以理解图片，可以和图片实现对话
+  - [在线体验MiniGPT-4](https://huggingface.co/spaces/Vision-CAIR/minigpt4) - nan
+  - [多模态MiniGPT-4开源了](https://www.bilibili.com/video/BV1DT411p7YU/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 视频资料
 - AutoGPT
   - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Auto-GPT是一个实验性的开源应用程序，展示了GPT-4语言模型的能力。这个程序由GPT-4驱动，将LLM“思想”链接在一起，以自主实现您设定的任何目标
   - [AutoGPT手把手本地部署教程，新手也能看懂](https://www.bilibili.com/video/BV1D24y1F7cp/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
