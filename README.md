@@ -70,6 +70,7 @@
 - 基本使用
   - [ChatGPT登录操作扫盲级教程，附ChatGPT登录常见报错及处理技巧](https://blog.csdn.net/wy17910/article/details/129889204?ydreferer=aHR0cHM6Ly93d3cuYmFpZHUuY29tL2xpbms%2FdXJsPVU0am9uYTVFWTNFQi1OZFlqNkNOaUNDZ0tvMlpvQnEyNVNZbjdMbFZDSC0wR0hnQmNPWVBWRHlDS2doRDZXa3lJX2llOXBFc1hHRURhUTEtNlJCV0R2YVlHYmtBbG90enVmU2JhTmJFanpTJndkPSZlcWlkPWI3NWQyODQwMDA4MDQ0NTAwMDAwMDAwMzY0M2JmZmIz) - nan
   - [001 解决登陆open ai所在地区 国家不可用的问题](https://www.bilibili.com/video/BV1nd4y1W7h2/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
+  - [如何解决ChatGPT页面和插件超时报错问题](https://www.toutiao.com/video/7223263003523842560/?log_from=be915cef634e8_1682243169183) - nan
 - 提示工程
   - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/) - nan
   - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - nan
@@ -89,6 +90,8 @@
   - [llamahub](https://llamahub.ai/) - 使用一个或多个这些加载器将自定义数据源连接到您的LLM（通过LlamaIndex或LangChain）
   - [如何使用ChatGPT API训练自定义知识库AI聊天机器人](https://www.wbolt.com/how-to-train-ai-chatbot.html) - 在自己的数据上训练自己的ChatGPT
   - [LlamaHub](https://github.com/emptycrown/llama-hub) - 这是一个由社区创建的所有数据加载器/阅读器的简单库。目标是使将大型语言模型连接到各种知识源变得非常容易。
+  - [LangChain](https://github.com/hwchase17/langchain) - 大型语言模型 （LLM） 正在成为一项变革性技术，使 开发人员构建他们以前无法构建的应用程序。 但是单独使用这些LLM通常不足以 创建一个真正强大的应用程序 - 当您可以将它们与其他计算或知识来源相结合时，真正的力量就会到来。
+  - [利用LangChain绕过OpenAI的Token限制，生成文本摘要](https://www.bilibili.com/video/BV1ia4y1K7Ti/?spm_id_from=333.337.search-card.all.click) - 利用LangChain生成文本摘要
 - ChatPlugin
   - [如何建造一个ChatGPT插件](https://platform.openai.com/docs/plugins/introduction) - openai官网资料
 - SDK、API接口
@@ -98,6 +101,8 @@
 - ChatGPT镜像站
   - [免费的 ChatGPT镜像网站列表](https://github.com/LiLittleCat/awesome-free-chatgpt) - 免费的 ChatGPT镜像网站列表
   - [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键免费部署你的私人 ChatGPT 网页应用。
+  - [chatgpt-web](https://github.com/869413421/chatgpt-web) - 本项目可以一键部署属于自己定制化的 chatgpt web 程序(兼容gpt3.5)
+  - [本地化部署Chat GPT自己的AI小机器人 小白也能看懂的教程](https://www.bilibili.com/video/BV1Qs4y1H7sf/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
 
 # ChatGPT相关插件
 
@@ -105,9 +110,9 @@
   - [Voice Control for ChatGPT](edge://extensions/) - 该扩展添加了高级语音控制和朗读功能，让您可以以多种语言与 AI 进行交流
   - [EditGPT](edge://extensions/) - 在ChatGPT中轻松校对、编辑和跟踪内容的更改
   - [ChatHub](edge://extensions/) - 同时展示chatgpt和bing的查询结果  
-  - [ChatGPT for YouTube](http://edge://extensions/) - 生成youtube视频内容摘要
-  - [WebChatGPT](http://edge://extensions/) - 可使ChatGPT访问互联网内容
-  - [ChatGPT Summary AI for any websites](http://edge://extensions/) - 可针对youtube视频和网页内容生成摘要. 目前生成内容只支持中文
+  - [ChatGPT for YouTube](edge://extensions/) - 生成youtube视频内容摘要
+  - [WebChatGPT](edge://extensions/) - 可使ChatGPT访问互联网内容
+  - [ChatGPT Summary AI for any websites](edge://extensions/) - 可针对youtube视频和网页内容生成摘要. 目前生成内容只支持中文
 - Vscode插件
   - [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 
@@ -148,7 +153,7 @@
 
 # ChatGPT+AI、工具配合
 
-- ChatGPT+
+- chatgpt+
   - [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - 这个WhatsApp机器人使用OpenAI的GPT和DALL-E 2来响应用户输入
   - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - 与微信和聊天GPT互动：在微信上使用微信和官方 API 上的 ChatGPT
   - [chatGPTBox](https://github.com/josStorer/chatGPTBox) - 浏览器中的深度 ChatGPT 集成，完全免费。
@@ -166,17 +171,17 @@
   - [Microsoft 365 抢先体验Copilot，进去之后，一言难尽。](https://www.bilibili.com/video/BV1Xg4y1u745/?spm_id_from=autoNext&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [全新微软Office Copilot 发布会快速解读](https://www.bilibili.com/video/BV1ox4y1A7Dv/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [ChatGPT整合进Office：AI第一剑，先斩打工人](https://www.bilibili.com/video/BV14o4y1z7oq/?spm_id_from=333.788.recommend_more_video.-1&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
-- ChatGPT+docx
+- chatgpt+docx
   - [雷鸟365](https://www.leiniao365.com/) - 在线集成AI的文档编辑器
   - [OnlyOffice](https://personal.onlyoffice.com/zh) - nan
-- ChatGPT+pptx
+- chatgpt+pptx
   - [MotionGo](https://motion.yoo-ai.com/) - 命令式智能对话一键式生成PPT，让PPT表达更加快速、高效
   - [如何使用ChatGPT制作PPT](https://www.bilibili.com/video/BV1cc411H7Wo/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - chatgpt+mindshow组合生成ppt
   - [ChatBA: Generative AI for Slides ✨](https://www.chatba.com/) - 斯坦福博士生自制的PPT生成神器
-- ChatGPT+excel
+- chatgpt+excel
   - [用ChatGPT自动化操作Excel，十倍提升你的工作效率！](https://www.bilibili.com/video/BV1J8411p7wX/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [酷表ChatExcel](https://chatexcel.com/convert) - 通过聊天来操控您的Excel表格
-- ChatGPT+midjourney
+- chatgpt+midjourney
   - [尝试用chatGPT+midjourney进行科研绘图，被效果震惊到了](https://www.bilibili.com/video/BV1XM411T7uP/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 科研绘图
   - [两大AI结合！最新Midjourney v5 + ChatGPT 咒语生成Prompt Generator](https://www.bilibili.com/video/BV1vv4y157XS/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 生成Prompt
   - [史上最强AI创作组合：Midjourney V5 + ChatGPT-4](https://www.bilibili.com/video/BV1Nm4y1z7r2/?spm_id_from=autoNext&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 生成Prompt
@@ -230,6 +235,9 @@
 - 电商运营专员
   - [跨境电商中如何运用chatgpt编写listing](https://www.ixigua.com/7213667061057520184?logTag=c896269bf4bb939097df) - 如何运用chatgpt编写listing
   - [tool4seller](https://www.tool4seller.com/) - 跨境电商商家AI助手
+  - [flowrite](https://www.flowrite.com/) - 这个 AI 电子邮件编写器使用您的指令（通常是几句话）来生成独特的个性化消息
+  - [Inbenta](https://www.inbenta.com/en/) - 一个人工智能平台，为客户服务提供自然语言处理、机器学习和聊天机器人功能。该平台将机器学习与符号推理相结合，旨在为客户提供最佳体验，自动响应重复查询，并提供高效支持
+  - [Watson Assistant](https://www.ibm.com/cn-zh/cloud/watson-assistant/features) -  旨在通过对话式 AI 在所有渠道和接触点提供一致且智能的客户服务。 这是一个对话式 AI 平台，可消除常见的摩擦并提供优质的客户服务。 这种组合有助于提高客户满意度，同时降低成本，是一对强大的组合
 - 创业者 企业家
   - [应用案例](http://) - 持续更新中……
 - 新闻编辑 记者
@@ -261,9 +269,10 @@
 - 内容创作者
   - [ChatGPT自动写作 批量制作短视频 写代码整理数据](https://www.bilibili.com/video/BV1vG4y1U75R/?spm_id_from=333.788.recommend_more_video.16&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - ChatGPT输出短视频内容
 - 客户服务代表
-  - [应用案例](http://) - 持续更新中……
+  - [ChatGPT AI外贸客服24小时接待外贸客户](https://www.toutiao.com/video/7213674481317924153/) - nan
 - 教师 教育工作者
-  - [应用案例](http://) - 持续更新中……
+  - [ChatGPT正式步入教育界：新软件将化身你口袋里的导师！](https://www.toutiao.com/article/7223177632320651833/?log_from=e2ed047522952_1682242573688) - nan
+  - [Cheggamte](https://www.chegg.com/cheggmate) - Introducing the future of learning with Chegg, powered by GPT-4.
 
 # 技术论文、技术文档
 
