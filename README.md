@@ -118,6 +118,9 @@
 
 # ChatGPT相关web应用、独立工具
 
+- HuggingChat
+  - [HuggingChat](https://huggingface.co/chat/) - 最大开源社区Hugging Face发布了HuggingChat，有300亿参数
+  - [HuggingChat叫板ChatGPT！300亿参数大模型免费用](https://www.toutiao.com/article/7226244650024108604/?log_from=e0d7ba88a1a51_1682559341068) - nan
 - MiniGPT-4
   - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4：使用高级大语言模型增强视觉语言理解，可以理解图片，可以和图片实现对话
   - [在线体验MiniGPT-4](https://huggingface.co/spaces/Vision-CAIR/minigpt4) - nan
@@ -137,6 +140,10 @@
   - [Cursor](https://www.cursor.so/) - 编写、编辑和使用强大的人工智能ChatGPT辅助编写代码。程序员的必备编程工具
   - [免费的GPT-4 IDE工具Cursor保姆级使用教程](https://zhuanlan.zhihu.com/p/615818924) - nan
   - [教你上手AI编程神器Cursor.So！](https://www.bilibili.com/video/BV1ZY4y1Q7XD/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
+- Bito
+  - [Bito AI](https://bito.ai/) - 工具官方下载地址
+  - [Bito AI 智能编程辅助软件，提升10倍开发效率！](https://www.toutiao.com/article/7225921062318719525/?app=news_article&timestamp=1682423716&use_new_style=1&req_id=20230425195516CA8FD5BA8191FB04268C&group_id=7225921062318719525&share_token=D37FBDD7-5EE1-4EE0-B92B-952C1D8DBA24&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_ios&utm_campaign=client_share&source=m_redirect) - 智能编程辅助软件
+  - [【永久免费 ChatGPT4 编程 AI 助手】Bito AI VSCode 扩展对话式生成代码](https://www.bilibili.com/video/BV1XV4y1Z7Yg/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 视频资料
 - Visual ChatGPT
   - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - 微软开源 Visual ChatGPT：用图像交互的方式，跟 ChatGPT 聊天、画画和编辑. 提供视觉聊天系统，可以接收和发送文本和图像；提供复杂的视觉问答和视觉编辑指令，可以解决复杂视觉任务；可以提供反馈，总结答案，还可以主动对模糊的指令进行询问
   - [微软开源的VisualGPT到底是什么？](https://www.toutiao.com/article/7210763091612222013/?channel=&source=search_tab) - Visual ChatGPT参考资料
@@ -178,6 +185,8 @@
   - [MotionGo](https://motion.yoo-ai.com/) - 命令式智能对话一键式生成PPT，让PPT表达更加快速、高效
   - [如何使用ChatGPT制作PPT](https://www.bilibili.com/video/BV1cc411H7Wo/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - chatgpt+mindshow组合生成ppt
   - [ChatBA: Generative AI for Slides ✨](https://www.chatba.com/) - 斯坦福博士生自制的PPT生成神器
+  - [gamma](https://gamma.app/) -  AI 生成器，您可以在一分钟内优化和自定义工作演示文稿、文档或网页。
+  - [展开AI自动生成PPT，效果竟然这么好！实测Gamma快速制作PPT](https://www.toutiao.com/video/7222209259726406204/?log_from=55a723412aaee_1682300937582) - gamma讲解视频
 - chatgpt+excel
   - [用ChatGPT自动化操作Excel，十倍提升你的工作效率！](https://www.bilibili.com/video/BV1J8411p7wX/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [酷表ChatExcel](https://chatexcel.com/convert) - 通过聊天来操控您的Excel表格
@@ -206,6 +215,8 @@
   - [应用案例](http://) - 持续更新中……
 - 电影编剧 导演
   - [应用案例](http://) - 持续更新中……
+- 金融从业者
+  - [ChatGPT应用专题研究：ChatGPT在投资研究工作中的应用初探](https://www.toutiao.com/article/7225854322758746639/?log_from=8f88ba87a9bdf_1682561046328) - nan
 - 礼仪培训师
   - [应用案例](http://) - 持续更新中……
 - 咨询师 辅导员
@@ -279,7 +290,19 @@
 - 技术论文
   - [内容](http://) - 持续更新中……
 - 技术文档
-  - [内容](http://) - 持续更新中……
+  - [Track Anything](https://www.toutiao.com/article/7226298533358617143/?log_from=711922994ee01_1682561269344) - Track Anything：交互式跟踪任意视频任意目标
+  - [Track Anything Online](https://huggingface.co/spaces/watchtowerss/Track-Anything) - Track Anything Demo 地址
+  - [Track Anything Github](https://github.com/gaomingqi/Track-Anything) - Track Anything Github项目地址
+  - [Caption-Anything](https://github.com/ttengwang/Caption-Anything/) - 一款交互式图像描述工具, 基于Segment Anything, BLIP-2 Captioning和chatGPT实现, 通过视觉控制(鼠标点击)获取特定区域的object, 并以多样化的语言风格描述出来.
+  - [Caption-Anything Demo](https://huggingface.co/spaces/TencentARC/Caption-Anything) - Caption-Anything Demo
+  - [segment anything github](https://github.com/facebookresearch/segment-anything) - segment anything github项目地址
+  - [segment anything](https://segment-anything.com/demo) - SAM能从照片或视频图像中对任意对象实现一键分割
+  - [Meta最新的计算机视觉Segment Anything Meta终极模型，强到离谱！](https://www.bilibili.com/video/BV18T411W7ph/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
+  - [Grounded-SAM  DEMO](https://github.com/camenduru/grounded-segment-anything-colab) - DEMO
+  - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM｜检测，分割，生成一切.用于数据标注
+  - [Grounded-SAM｜检测，分割，生成一切｜Meta SAM进化版](https://www.bilibili.com/video/BV1sv4y1H77h/?spm_id_from=333.788.recommend_more_video.8&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
+  - [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) - GitHub 项目地址 。 提供了三个主要功能：Remove Anything，Fill Anything和Replace Anything，允许用户使用点击和基于文本的提示来无缝地编辑图像
+  - [Inpaint Anything 用文本就可实现一键图像修复和替换](https://zhuanlan.zhihu.com/p/623452335) - nan
 
 # 声明
 
