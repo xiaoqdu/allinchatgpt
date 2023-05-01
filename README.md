@@ -62,6 +62,7 @@
   - [chatgpt和playground区别](https://www.de1919.com/article/118332.html) - nan
   - [ChatGPT普通版与Plus版差距有多大](https://www.bilibili.com/video/BV1dT411q7ek/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [GPT-4介绍](https://openai.com/product/gpt-4) - OpenAI chatgpt4官方介绍
+  - [ChatGPT推出“联网模式”！可直接读取网页内容](https://www.toutiao.com/article/7226938742949708299/?log_from=ac2d32119cadf_1682908289330) - nan
 - 注册过程
   - [手把手教你注册ChatGPT，新手小白一看就会](https://www.yeshen.com/blog/chatgpt/) - nan
   - [手把手教你ChatGPT API Key申请使用和充值方法](https://cloud.tencent.com/developer/article/2232954?areaSource=106000.18&traceId=porJD-JTu-KW0HVhT64g5 ) - nan
@@ -71,6 +72,8 @@
   - [ChatGPT登录操作扫盲级教程，附ChatGPT登录常见报错及处理技巧](https://blog.csdn.net/wy17910/article/details/129889204?ydreferer=aHR0cHM6Ly93d3cuYmFpZHUuY29tL2xpbms%2FdXJsPVU0am9uYTVFWTNFQi1OZFlqNkNOaUNDZ0tvMlpvQnEyNVNZbjdMbFZDSC0wR0hnQmNPWVBWRHlDS2doRDZXa3lJX2llOXBFc1hHRURhUTEtNlJCV0R2YVlHYmtBbG90enVmU2JhTmJFanpTJndkPSZlcWlkPWI3NWQyODQwMDA4MDQ0NTAwMDAwMDAwMzY0M2JmZmIz) - nan
   - [001 解决登陆open ai所在地区 国家不可用的问题](https://www.bilibili.com/video/BV1nd4y1W7h2/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [如何解决ChatGPT页面和插件超时报错问题](https://www.toutiao.com/video/7223263003523842560/?log_from=be915cef634e8_1682243169183) - nan
+  - [ChatGPT经常掉线怎么办，一个工具帮你解决！](https://www.toutiao.com/video/7224106358117925388/?log_from=55bf540276c15_1682827825756) - KeepChatGPT插件
+  - [展开只需一招 解决ChatGPT上下文不连贯问题 输出完整内容 提高效率](https://www.toutiao.com/video/7222180007391527459/?channel=&source=search_tab) - nan
 - 提示工程
   - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts/) - nan
   - [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - nan
@@ -79,6 +82,7 @@
   - [数据科学目的的 ChatGPT 的提示](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - nan
   - [大模型自动产生prompt的范式(Automatic Prompt Engineer(APE))](https://zhuanlan.zhihu.com/p/619112790) - nan
   - [Large Language Models Are Human-Level Prompt Engineers](https://sites.google.com/view/automatic-prompt-engineer) - nan
+  - [面向开发者的ChatGPT提示工程](https://space.bilibili.com/15467823/channel/seriesdetail?sid=3247315&ctype=0) - 吴恩达与 OpenAI 强强联手，《ChatGPT 提示工程》中文版教程
 - 提示工程工具
   - [欢迎使用 PromptPerfect，它是专为大型语言模型设计的尖端提示词优化器](https://promptperfect.jina.ai/) - nan
   - [ChatGPT Shortcut 生产力加倍的 ChatGPT 快捷指令](https://www.aishort.top/?ref=nav.6aiq.com) - nan
@@ -181,6 +185,7 @@
 - chatgpt+docx
   - [雷鸟365](https://www.leiniao365.com/) - 在线集成AI的文档编辑器
   - [OnlyOffice](https://personal.onlyoffice.com/zh) - nan
+  - [ChatDoc](https://www.chatdoc.com/) - ChatDOC是一款基于ChatGPT的文件阅读助手，可以快速从PDF文档中提取、定位和汇总文件信息
 - chatgpt+pptx
   - [MotionGo](https://motion.yoo-ai.com/) - 命令式智能对话一键式生成PPT，让PPT表达更加快速、高效
   - [如何使用ChatGPT制作PPT](https://www.bilibili.com/video/BV1cc411H7Wo/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - chatgpt+mindshow组合生成ppt
