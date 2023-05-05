@@ -96,6 +96,12 @@
   - [LlamaHub](https://github.com/emptycrown/llama-hub) - 这是一个由社区创建的所有数据加载器/阅读器的简单库。目标是使将大型语言模型连接到各种知识源变得非常容易。
   - [LangChain](https://github.com/hwchase17/langchain) - 大型语言模型 （LLM） 正在成为一项变革性技术，使 开发人员构建他们以前无法构建的应用程序。 但是单独使用这些LLM通常不足以 创建一个真正强大的应用程序 - 当您可以将它们与其他计算或知识来源相结合时，真正的力量就会到来。
   - [利用LangChain绕过OpenAI的Token限制，生成文本摘要](https://www.bilibili.com/video/BV1ia4y1K7Ti/?spm_id_from=333.337.search-card.all.click) - 利用LangChain生成文本摘要
+  - [替代Pinecone - Chroma开源向量数据库存储OpenAI Embedding向量数据](https://www.bilibili.com/video/BV15m4y1271j/) - nan
+  - [Pinecone向量数据库入门 - OpenAI Embedding向量数据存储](https://www.bilibili.com/video/BV1vs4y1E7mo/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
+  - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - 使用新的 GPT-4 API 为多个大型 PDF 文件构建聊天 GPT 聊天机器人。
+
+  - [nanoGPT](https://github.com/karpathy/nanoGPT) - 用于训练/微调中型 GPT 的最简单、最快的存储库。
+  - [手把手从头实现GPT by Andrej Karpathy](https://www.bilibili.com/video/BV1E14y1M75n/?vd_source=a839a656d82f50d2b08ae4042d5a0e51) - 参考资料
 - ChatPlugin
   - [如何建造一个ChatGPT插件](https://platform.openai.com/docs/plugins/introduction) - openai官网资料
 - SDK、API接口
@@ -122,6 +128,10 @@
 
 # ChatGPT相关web应用、独立工具
 
+- AudioGPT
+  - [AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT GitHub项目地址
+  - [AudioGPT：理解和生成语音、音乐、声音和说话人头像](https://zhuanlan.zhihu.com/p/625923032) - 资料参考
+  - [AudioGPT Demo Online](https://huggingface.co/spaces/AIGC-Audio/AudioGPT) - Demo在线地址
 - HuggingChat
   - [HuggingChat](https://huggingface.co/chat/) - 最大开源社区Hugging Face发布了HuggingChat，有300亿参数
   - [HuggingChat叫板ChatGPT！300亿参数大模型免费用](https://www.toutiao.com/article/7226244650024108604/?log_from=e0d7ba88a1a51_1682559341068) - nan
@@ -177,6 +187,8 @@
   - [xiaogpt](https://github.com/yihong0618/xiaogpt) - 小米音箱对接chatgpt
   - [office365 copilot](https://zh.wikipedia.org/zh-cn/Microsoft_365_Copilot) - office365 copilot(全面升级办公套件)
   - [new bing](https://www.bing.com/) - New Bing整合了Chatgpt能力，提供了新的搜索模式，整合了聊天和搜索结果
+  - [SQL Chat](https://www.sqlchat.ai/) - SQL Chat 是一个基于聊天的 SQL 客户端，用于使用自然语言询问数据库问题和查询数据库。
+  - [Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - 为ChatGPT/ChatGLM/LLaMA/StableLM/MOSS等多种LLM提供了一个轻快好用的Web图形界面
 - office365 copilot
   - [office365 copilot](https://zh.wikipedia.org/zh-cn/Microsoft_365_Copilot) - office365 copilot 维基百科说明
   - [Microsoft 365 抢先体验Copilot，进去之后，一言难尽。](https://www.bilibili.com/video/BV1Xg4y1u745/?spm_id_from=autoNext&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
@@ -186,6 +198,8 @@
   - [雷鸟365](https://www.leiniao365.com/) - 在线集成AI的文档编辑器
   - [OnlyOffice](https://personal.onlyoffice.com/zh) - nan
   - [ChatDoc](https://www.chatdoc.com/) - ChatDOC是一款基于ChatGPT的文件阅读助手，可以快速从PDF文档中提取、定位和汇总文件信息
+  - [PDF GPT](https://github.com/bhaskatripathi/pdfGPT) - 一个基于 GPT 实现的开源 PDF 文档聊天方案：PDF GPT
+  - [PDF GPT DEMO](https://bhaskartripathi-pdfchatter.hf.space/?__theme=dark) - nan
 - chatgpt+pptx
   - [MotionGo](https://motion.yoo-ai.com/) - 命令式智能对话一键式生成PPT，让PPT表达更加快速、高效
   - [如何使用ChatGPT制作PPT](https://www.bilibili.com/video/BV1cc411H7Wo/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - chatgpt+mindshow组合生成ppt
@@ -308,6 +322,7 @@
   - [Grounded-SAM｜检测，分割，生成一切｜Meta SAM进化版](https://www.bilibili.com/video/BV1sv4y1H77h/?spm_id_from=333.788.recommend_more_video.8&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) - GitHub 项目地址 。 提供了三个主要功能：Remove Anything，Fill Anything和Replace Anything，允许用户使用点击和基于文本的提示来无缝地编辑图像
   - [Inpaint Anything 用文本就可实现一键图像修复和替换](https://zhuanlan.zhihu.com/p/623452335) - nan
+  - [Rembg](https://github.com/danielgatis/rembg) - Rembg是一个删除图像背景的工具
 
 # 声明
 
