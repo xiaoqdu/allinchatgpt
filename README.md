@@ -50,6 +50,7 @@
   - [区块链行业专题研究 AIGC~Web3时代(13页).pdf](http://) - 13页
   - [通用人工智能的火花：GPT-4 的早期实验-154页（英文版本）-155页 .pdf](http://) - 155页
   - [通用人工智能的火花：GPT-4 的早期实验-中文154页中文版本-155页.pdf](http://) - 155页
+  - [人工智能大模型研究框架（120页PPT） 国君计算机.pdf](http://) - 120页
 
 # ChatGPT
 
@@ -206,6 +207,21 @@
   - [ChatBA: Generative AI for Slides ✨](https://www.chatba.com/) - 斯坦福博士生自制的PPT生成神器
   - [gamma](https://gamma.app/) -  AI 生成器，您可以在一分钟内优化和自定义工作演示文稿、文档或网页。
   - [展开AI自动生成PPT，效果竟然这么好！实测Gamma快速制作PPT](https://www.toutiao.com/video/7222209259726406204/?log_from=55a723412aaee_1682300937582) - gamma讲解视频
+  - [tome](https://beta.tome.app/) - Tome的使用非常简单，只需要输入主题和关键词，就能快速生成 PPT
+  - [Prezo](https://www.prezo.ai/) - Prezo是一款可以自动根据用户提供的内容生成具有逻辑性的PPT的工具
+  - [Wonderslide](https://wonderslide.com/) - Wonderslide 是一款具有 AI 能力的在线设计 PPT 的服务
+  - [Beautiful AI](https://www.beautiful.ai/) - Beautiful AI 是一款可以让用户在线快速制作漂亮 PPT 的工具，产品成熟度较高。
+  - [美图 AI PPT](https://design.meitu.com/ppt/) - 美图 AI PPT 是由美图设计室出品的免费在线 AI 生成PPT设计工具
+  - [magicslides.app](https://www.magicslides.app/) - 从创意到专业演示文稿，可以在几秒钟内完成
+  - [sankki](https://ppt.sankki.com/#/intro) - 一个简单的在线做 PPT 的网站，只需要输入大纲等要点，可以非常方便的生成PPT
+  - [Piggy](https://piggy.to/magic) - 随时随地，用AI快速生成创建适合移动设备的文档和演示文稿
+  - [SlidesAI](https://www.toolify.ai/zh/tool/slidesai) - 在几秒钟内使用 AI 创建演示幻灯片 告别繁琐的手动幻灯片创建
+  - [MagicSlides](https://www.magicslides.app/) - 使用MagicSlides ，只需要选择标题和幻灯片数量，就可自定义的模板快速轻松地创建专业演示文稿。
+  - [Motionit.ai](https://www.motionit.ai/) - 使用人工智能生成令人惊叹的幻灯片和视频，用于各种目的，包括初创公司推介幻灯片、会议演示等
+  - [STORYD](https://www.storyd.ai/) - STORYD 是一个生成式AI工具，可帮助用户创建引人入胜且有影响力的 AI 驱动的数据演示
+  - [Powerpresent AI](https://powerpresent.ai/) - Powerpresent AI是一个自动化的演示文稿创建工具，允许用户快速轻松地生成具有视觉吸引力的演示文稿
+  - [Present AI](https://present.yaara.ai/) - 使用 AI 快速创建精彩的演示文稿。提供各种视觉效果供您选择，包括低多边形、赛博朋克、超现实主义、动漫、现实主义、孟菲斯设计、幻想和卡通。还允许用户输入自己的文本来创建演示文稿
+  - [AutoSlide](https://autoslide.ai/) - AutoSlide 是一款生成式AI驱动的人文稿演示工具，允许用户快速创建专业演示文稿
 - chatgpt+excel
   - [用ChatGPT自动化操作Excel，十倍提升你的工作效率！](https://www.bilibili.com/video/BV1J8411p7wX/?spm_id_from=333.337.search-card.all.click&vd_source=a839a656d82f50d2b08ae4042d5a0e51) - nan
   - [酷表ChatExcel](https://chatexcel.com/convert) - 通过聊天来操控您的Excel表格
@@ -259,7 +275,7 @@
 - 音乐制作人
   - [应用案例](http://) - 持续更新中……
 - 教育培训师
-  - [应用案例](http://) - 持续更新中……
+  - [MathGPT来了！专攻数学大模型，解题讲题两手抓](https://www.toutiao.com/article/7230672794055787047/?log_from=41f0c7288f10b_1683681994875) - nan
 - 财务人员
   - [应用案例](http://) - 持续更新中……
 - 电商运营专员
@@ -323,6 +339,11 @@
   - [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) - GitHub 项目地址 。 提供了三个主要功能：Remove Anything，Fill Anything和Replace Anything，允许用户使用点击和基于文本的提示来无缝地编辑图像
   - [Inpaint Anything 用文本就可实现一键图像修复和替换](https://zhuanlan.zhihu.com/p/623452335) - nan
   - [Rembg](https://github.com/danielgatis/rembg) - Rembg是一个删除图像背景的工具
+  - [facelit](https://github.com/apple/ml-facelit) - 一张照片生成3D头像. Github项目地址
+  - [一张照片生成3D头像！苹果新模型击败StyleGAN2，表情光线都能调](https://www.toutiao.com/article/7228263910107972157/?log_from=cec656516eb3c_1683337232884) - nan
+  - [文本也能生成3D物体了！OpenAI开源Shap-E模型](https://huggingface.co/spaces/hysts/Shap-E) - nan
+  - [GitHub 开源神器 Bark模型，让文本转语音更简单！](https://www.toutiao.com/article/7224875513527943732/?log_from=90ebb36858821_1683682283657) - nan
+  - [StarCoder 源代码大模型](https://www.toutiao.com/article/7230622474616963645/?channel=&source=search_tab) - nan
 
 # 声明
 
